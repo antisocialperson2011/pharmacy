@@ -97,7 +97,7 @@ public abstract class ShellForm : Form
         var p = new Panel { Dock = DockStyle.Top, Height = 58, BackColor = Theme.Primary };
         var title = new Label
         {
-            Text = "✚  Аптека «Здоровье»",
+            Text = "✚  Аптека «Лирика»",
             ForeColor = Color.White,
             Font = Theme.Title,
             AutoSize = true,
