@@ -4,11 +4,6 @@
 
 ### Приложение для аптечной сети на Windows Forms
 
-![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-12-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![WinForms](https://img.shields.io/badge/Windows%20Forms-desktop-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Storage](https://img.shields.io/badge/storage-JSON-F7DF1E?style=for-the-badge&logo=json&logoColor=black)
-
 **Каталог лекарств · Корзина · Оформление заказа · Админ-панель**
 
 </div>
